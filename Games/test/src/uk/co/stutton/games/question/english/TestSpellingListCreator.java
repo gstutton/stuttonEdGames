@@ -6,7 +6,7 @@ public class TestSpellingListCreator {
 		System.out.println("About to create spelling list");
 		SpellingListCreator creator = new SpellingListCreator();
 		creator.saveList();
-		System.out.println("Finished !");
+		System.out.println("Finished !!");
 		
 	}
 }
