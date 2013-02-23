@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="resources/" kind="src" path="test/src"/>
+	<classpathentry kind="src" path="test/src/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/freetts-1.2/bin/Client.jar"/>
+	<classpathentry kind="lib" path="lib/freetts-1.2/lib/freetts.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ProjectJars"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
